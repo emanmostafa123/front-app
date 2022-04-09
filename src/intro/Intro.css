@@ -1,0 +1,91 @@
+
+.container-intro{
+    margin-top: -10vh;
+    padding: 0 !important;
+}
+
+.background-image {
+    position: relative;
+}
+
+.logo-image {
+    max-width: 10%;
+    top: 0;
+    right: 0;
+    margin-top: 20%;
+    margin-right: 21%;
+    position: absolute;
+}
+
+.btn-image {
+    cursor: pointer;
+    max-width: 10%;
+    top: 0;
+    left: 0;
+    margin-top: 30%;
+    margin-left: 10%;
+    position: absolute;
+}
+
+.container-text-first{
+    top: 0;
+    left: 0;
+    margin-top: 10%;
+    margin-left: 10%;
+    position: absolute;
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3vw;
+    line-height: 29px;
+    /* identical to box height */
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.container-text-second{
+    top: 0;
+    left: 0;
+    margin-top:13%;
+    margin-left: 13%;
+    position: absolute;
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3vw;
+    line-height: 85px;
+    /* or 118% */
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.container-text-third{
+    top: 0;
+    left: 0;
+    margin-top: 17%;
+    margin-left: 10%;
+    position: absolute;
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 4vw;
+    line-height: 85px;
+    /* or 118% */
+    text-transform: uppercase;
+    color: #30FAF7;
+}
+
+.logo {
+    width: 100vh;
+    height: 100vh;
+}
+
+
+
+
+@media screen and (max-width:992px) {
+    .btn-image img{
+        width: 200%!important;
+    }
+}

@@ -1,0 +1,67 @@
+.content-title {
+    margin-left: 10vh;
+    margin-bottom: 10vh;
+}
+
+.white-title {
+    position: relative;
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-size: 3vw;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.light-blue-text {
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-size: 3vw;
+    line-height: 85px;
+    text-transform: uppercase;
+    color: #30FAF7;
+}
+
+.content-container {
+    padding: 0;
+}
+
+.content-parent {
+    margin-top: 10vh;
+    padding: 0;
+    position: relative;
+}
+
+.content-icons {
+    margin-top: -10vh;
+    padding: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.content-bg {
+    margin-top: 20vh;
+    box-shadow: 0 0 8px 8px white inset;
+    background-image: url("../assets/services/bg vector.png");
+}
+
+/* .content-bg-image {
+
+} */
+
+
+@media screen and (max-width:992px) {
+    .content-container{
+        height: 230vh!important;
+    }
+    .content-title {
+        font-size: 5vw!important;
+    }
+    .content-title {
+        margin-left: 2%!important;
+    }
+}
+
+
+

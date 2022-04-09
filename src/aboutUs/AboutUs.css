@@ -1,0 +1,52 @@
+.white-title {
+    position: relative;
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-size: 2.9vw;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.light-blue-text {
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-size: 2.9vw;
+    line-height: 85px;
+    text-transform: uppercase;
+    color: #30FAF7;
+}
+
+.white-text{
+    margin-top: 150px;
+    color: #FFFFFF;
+}
+
+.about-text{
+    margin-top: 25vh;
+    margin-left: 9vw;
+    line-height: 35px;
+    font-size: 1vw;
+    letter-spacing: 0.15em;
+}
+
+.img-fluid{
+    width: 165px;
+}
+
+@media screen and (max-width:992px) {
+    .about-container{
+        display: block!important;
+    }
+    .white-title{
+        font-size: 4vh;
+    }
+    .light-blue-text{
+        font-size: 4vh;
+    }
+    .about-text{
+        font-size: 2vh;
+
+    }
+    
+}
