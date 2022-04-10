@@ -71,6 +71,9 @@
     .serve-back-img{
         display: block;
     }
+    .serve-img{
+        margin-top: 2%!important;
+    }
     .serve-text{
         line-height: 5%;
     }
@@ -85,6 +88,8 @@
     }
     .link-hover{
         width: 23%!important;
+        top: -5%;
+
     }
     
 }

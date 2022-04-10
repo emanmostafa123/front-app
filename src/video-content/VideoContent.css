@@ -40,3 +40,12 @@
     left: 47%;
     top: 45%;
 }
+
+@media screen and (max-width:992px) {
+
+    .img-play{
+        left: 43%;
+        top: 34%;
+    }
+
+}

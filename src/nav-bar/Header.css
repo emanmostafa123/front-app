@@ -39,6 +39,7 @@
     }
     .header-container{
         height: 23vh;
+        background-color: #030B2F;
     }
     .header-icon.img-fluid{
         margin-left: 2vh;

@@ -85,7 +85,20 @@
 
 
 @media screen and (max-width:992px) {
+    .btn-image{
+        top: 4%!important;
+        
+
+    }
+
+    .container-text-second{
+        margin-top: 10%;
+    } 
+    .container-text-third {
+        margin-top: 15%;
+    }
+   
     .btn-image img{
-        width: 200%!important;
+        max-width: 80px!important;
     }
 }

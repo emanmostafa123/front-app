@@ -17,7 +17,7 @@ export const AboutUs = () => {
                     </div>
                 </Col>
                 <Col>
-                    <img src={ bgImage }  className="img-fluid w-100 "/>
+                    <img src={ bgImage }  className="img-fluid w-100 bgimage "/>
                 </Col>
             </Row>
         </Container>

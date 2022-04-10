@@ -53,7 +53,7 @@
 
 @media screen and (max-width:992px) {
     .content-container{
-        height: 190vh!important;
+        height: 260vh!important;
     }
     .content-title {
         font-size: 5vw!important;

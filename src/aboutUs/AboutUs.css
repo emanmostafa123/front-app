@@ -37,6 +37,13 @@
 @media screen and (max-width:992px) {
     .about-container{
         display: block!important;
+        background-image: url("../assets/about/about.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .img-fluid.bgimage {
+        display: none;
     }
     .white-title{
         font-size: 4vh;
@@ -48,5 +55,5 @@
         font-size: 2vh;
         width: 150%;
     }
-    
+  
 }
