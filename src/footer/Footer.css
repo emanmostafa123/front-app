@@ -26,18 +26,23 @@
 }
 
 @media screen and (max-width:992px) {
-    
+    .footer-container br{
+        display: none;
+    }
+    .footer-container img{
+        display: block;
+    }
     .footer-bac{
         width: 100%;
-        
-    }
-    .footer-box{
-        left: 0%;
+        height: 60%;
     }
     .footer-box img{
-        width: 50%;
+        width: 30%;
     }
-    .footer-container{
-        justify-content: center;
+    .footer-text{
+        margin-left: -50%;
+    }
+    .link-img{
+        margin-top: 7%;
     }
   }
