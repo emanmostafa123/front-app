@@ -9,7 +9,7 @@ export const Footer = () => {
         <Container fluid={true} className="footer-container">
             <img src={bacimg} className="footer-bac" /> 
             <div className="footer-box">
-                <img src={ logoimg } /><br/><br/>
+                <img src={ logoimg } className='logo-footer'/><br/><br/>
                 <img src={ linkimg } className="link-img"/><br/><br/><br/><br/><br/><br/>
                 <span className="footer-text">© 2022 HitechWiser. All Rights Reserved. | Cookie & Privacy Policy</span>
             </div>

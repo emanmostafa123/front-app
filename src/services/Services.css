@@ -53,10 +53,12 @@
 
 @media screen and (max-width:992px) {
     .content-container{
-        height: 260vh!important;
+        height: 195vh!important;
     }
+  
     .content-title {
         font-size: 5vw!important;
+        margin-top: 20%!important;
     }
     .content-title {
         margin-left: 2%!important;
