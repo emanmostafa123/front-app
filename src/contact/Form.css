@@ -28,7 +28,7 @@
     top: 150px;
     left: 10%;
     text-align: left;
-    width: 100%;
+    width: 80%;
 }
 
 .contact-row{
@@ -44,7 +44,7 @@
 }
 
 .contact-yield{
-    width: 80%!important;
+    width: 100%!important;
     height: 50px;
 }
 
@@ -55,7 +55,7 @@
 
 .contact-area{
     margin-top: 50px;
-    width: 75%;
+    width: 83%;
     text-align: center;
     margin-left: 40px;
 }
@@ -69,7 +69,8 @@
     text-align: right;
 }
 .contact-button{
-    width: 144%;
+    width: 50%;
+    margin-left: 55%;
     margin-top: 20px;
 }
 
@@ -120,12 +121,16 @@
   .form-box{
       margin-left: 4%;
   }
+  .contact-yield-area{
+      width: 125%!important;
+  }
 
   .contact-subtitle{
       font-size: 2vh;
   }
   .contact-button{
-      width: 100%;
+      width: 50%;
+      margin-left: 20%;
   }
       
   }
