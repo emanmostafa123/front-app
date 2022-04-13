@@ -27,15 +27,19 @@
 
 @media screen and (max-width:992px) {
     button.navbar-toggler.collapsed{
-        margin-right: 20%!important;
+        margin-right: 4%!important;
+        
     }
     button.navbar-toggler{
-        margin-right: 20%!important;
+        margin-right: 4%!important;
     }
     .gap-5.navbar-nav{
         padding: 2%;
         background-color: #020D3A;
         margin-right: 40%!important;
+    }
+    .header-nav{
+        margin-top: 2%;
     }
     .header-container{
         height: 16vh;
@@ -43,6 +47,7 @@
     }
     .header-icon.img-fluid{
         margin-left: 2vh;
-        width: 23%;
+        width: 25%;
+        margin-top: -3%;
     }
 }
